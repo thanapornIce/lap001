@@ -1,0 +1,17 @@
+C:\thana\lap001\lap001\bin\Debug\net6.0-windows\lap001.exe
+C:\thana\lap001\lap001\bin\Debug\net6.0-windows\lap001.deps.json
+C:\thana\lap001\lap001\bin\Debug\net6.0-windows\lap001.runtimeconfig.json
+C:\thana\lap001\lap001\bin\Debug\net6.0-windows\lap001.dll
+C:\thana\lap001\lap001\bin\Debug\net6.0-windows\lap001.pdb
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.csproj.AssemblyReference.cache
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.Form1.resources
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.csproj.GenerateResource.cache
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.GeneratedMSBuildEditorConfig.editorconfig
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.AssemblyInfoInputs.cache
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.AssemblyInfo.cs
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.csproj.CoreCompileInputs.cache
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.dll
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\refint\lap001.dll
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.pdb
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\lap001.genruntimeconfig.cache
+C:\thana\lap001\lap001\obj\Debug\net6.0-windows\ref\lap001.dll
